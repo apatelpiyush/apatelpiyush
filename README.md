@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a python back-end project with a collaboration with one of my colleague. <br>I have learnt the basics of C language and have been recently focusing o learning other robust like python and related frameworks.
+I'm currently working on a python back-end project with a collaboration with one of my colleague. <br>I have learnt the basics of C language and have been recently focusing on learning other robust like python and related frameworks.
 
 
 ## 🌐 Socials:
